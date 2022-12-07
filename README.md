@@ -2,7 +2,7 @@
 
 ### Welcome to Web Audio Player by Ayush Dubey.
 
-> **Demo: [Click Here](https://devayushdubey.github.io/)**
+> **[Demo](https://devayushdubey.github.io/)**
 
 ## **Description**
 Web Audio Player is a Web Audio Interface developed with [p5.js](https://github.com/processing/p5.js?files=1) and [p5.sound](https://github.com/processing/p5.js-sound).
