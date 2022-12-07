@@ -11,7 +11,7 @@ The purpose of this project is to demonstrate p5.sound's Web Audio capabilities 
 ![ModernWebAudioPlayer](https://user-images.githubusercontent.com/33064931/206289574-77a10ba5-c3f5-43f5-a712-664fb173d0c5.png)
 
 ## **How to use?**
-- Click on the [demo](https://devayushdubey.github.io/)) link.
+- Click on the [demo](https://devayushdubey.github.io/) link.
 - Make sure your browser and your audio output is not mute.
 - Clicking on play button, plays the sound.
 - Clicking on pause buton, pauses the sound.
